@@ -51,7 +51,7 @@ Estoy abierto a:
 ## 📫 Contacto
 
 - 💼 GitHub: [github.com/AzaelE](https://github.com/AzaelE)
-
+- Linkedin:  https://www.linkedin.com/in/efrain-azael-bautista-jacinto-babbba262
 ---
 
 ⭐ *Gracias por visitar mi perfil. ¡Siempre dispuesto a aprender y colaborar!*
