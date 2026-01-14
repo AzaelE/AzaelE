@@ -19,7 +19,7 @@ Actualmente estoy enfocado en fortalecer mis conocimientos y ganar experiencia p
   - CSS  
 
 - ⚙️ **Backend & Automatización:**  
-  - Python  
+  - Python   
   - C++  
   - JAVA
 
