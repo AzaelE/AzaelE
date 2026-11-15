@@ -21,3 +21,5 @@ Soy egresado universitario y busco mi primera oportunidad como desarrollador. Me
 Estoy abierto a posiciones **junior o trainee**, prácticas profesionales y proyectos colaborativos.
 
 [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/efrain-azael-bautista-jacinto-babbba262)
+
+[Descarga mi CV en PDF](CV-Efrain-Azael.pdf)
